@@ -4,7 +4,7 @@
 
 https://chrome.google.com/webstore/detail/javascript-injector/ejnccfcackblkelbafbolcpjfpcmbplg
 
-Past below script in the extension 
+Paste below script in the extension 
 
 ```
 // fill method
