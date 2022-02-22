@@ -1,10 +1,10 @@
 # Time Sheet Autofill Script
 
-### Use Javascript Injector Extintion 
+### Use Javascript Injector extension 
 
 https://chrome.google.com/webstore/detail/javascript-injector/ejnccfcackblkelbafbolcpjfpcmbplg
 
-Past below script in the extention 
+Past below script in the extension 
 
 ```
 // fill method
